@@ -6,7 +6,7 @@ import cz.jirutka.rsql.parser.ast.LogicalOperator;
 import cz.jirutka.rsql.parser.ast.Node;
 import lombok.NonNull;
 import lombok.extern.slf4j.Slf4j;
-import org.rmm.rsql.exceotion.RsqlException;
+import org.rmm.rsql.exception.RsqlException;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;

@@ -1,4 +1,4 @@
-package org.rmm.rsql.exceotion;
+package org.rmm.rsql.exception;
 
 
 /**

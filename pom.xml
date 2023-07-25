@@ -59,6 +59,12 @@
             <artifactId>logback-classic</artifactId>
             <version>${logback.version}</version>
         </dependency>
+        <!-- Below is the dependency for CXF FIQL Parser. Not needed but useful to know just in case.
+        <dependency>
+            <groupId>org.apache.cxf</groupId>
+            <artifactId>cxf-bundle-jaxrs</artifactId>
+            <version>2.7.18</version>
+        </dependency> -->
     </dependencies>
 
 </project>
